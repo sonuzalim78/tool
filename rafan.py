@@ -455,7 +455,7 @@ def rcrack(uid,pwx,tl):
 
 			pro = random.choice(agents)
 
-			free_fb = session.get('https://'mbasic.facebook.com').text
+			free_fb = session.get('https://'free.facebook.com').text
 
 			log_data = {
 
